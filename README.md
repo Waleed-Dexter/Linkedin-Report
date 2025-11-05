@@ -1,4 +1,4 @@
-# 💼 Task 1 — Wavess 1.0: LinkedIn Growth Solution
+# LinkedIn Growth Solution
 
 A prototype that analyzes **LinkedIn post performance** and **audience relevance** for growth optimization.
 
